@@ -1,0 +1,12 @@
+C:\Users\dkhpr\source\repos\SMSEMAILService\EmailLib\bin\Debug\net6.0\EmailLib.deps.json
+C:\Users\dkhpr\source\repos\SMSEMAILService\EmailLib\bin\Debug\net6.0\EmailLib.dll
+C:\Users\dkhpr\source\repos\SMSEMAILService\EmailLib\bin\Debug\net6.0\EmailLib.pdb
+C:\Users\dkhpr\source\repos\SMSEMAILService\EmailLib\obj\Debug\net6.0\EmailLib.csproj.AssemblyReference.cache
+C:\Users\dkhpr\source\repos\SMSEMAILService\EmailLib\obj\Debug\net6.0\EmailLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkhpr\source\repos\SMSEMAILService\EmailLib\obj\Debug\net6.0\EmailLib.AssemblyInfoInputs.cache
+C:\Users\dkhpr\source\repos\SMSEMAILService\EmailLib\obj\Debug\net6.0\EmailLib.AssemblyInfo.cs
+C:\Users\dkhpr\source\repos\SMSEMAILService\EmailLib\obj\Debug\net6.0\EmailLib.csproj.CoreCompileInputs.cache
+C:\Users\dkhpr\source\repos\SMSEMAILService\EmailLib\obj\Debug\net6.0\EmailLib.dll
+C:\Users\dkhpr\source\repos\SMSEMAILService\EmailLib\obj\Debug\net6.0\refint\EmailLib.dll
+C:\Users\dkhpr\source\repos\SMSEMAILService\EmailLib\obj\Debug\net6.0\EmailLib.pdb
+C:\Users\dkhpr\source\repos\SMSEMAILService\EmailLib\obj\Debug\net6.0\ref\EmailLib.dll
